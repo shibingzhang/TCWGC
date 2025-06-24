@@ -1,2 +1,2 @@
 # TCWGC
-An efficient GPU Winograd convolution implementation accelerated by tensor cores.
+An efficient 3D Winograd convolution GPU implementation accelerated by tensor cores.
